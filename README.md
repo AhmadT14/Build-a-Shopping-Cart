@@ -17,4 +17,4 @@ As part of **Udacity's Intro to Programming Nanodegree**, I contributed to build
 - **Loops & Conditionals**  
 
 ## My Contribution 🏗️
-I worked on the **`script.js` file**, implementing core JavaScript functionality to make the Shopping Cart interactive.
+I worked on the **`script.js` file** in the assets folder, implementing core JavaScript functionality to make the Shopping Cart interactive.
