@@ -9,7 +9,7 @@ As part of **Udacity's Intro to Programming Nanodegree**, I contributed to build
 - **Debugging & Optimization:** Ensured smooth functionality by debugging the script.
 
 ## **Udacity Project Completion** 🖼️
-![image](https://github.com/user-attachments/assets/664efaa6-ad3e-4cb7-9a68-3a540be05fa6)
+![image](https://github.com/user-attachments/assets/6c03a074-f34b-4534-97ca-9e966a65dad9)
 
 ## **Technologies Used** 🛠️
 - **JavaScript**  
